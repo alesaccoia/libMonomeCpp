@@ -3,7 +3,6 @@ cmake_minimum_required(VERSION 2.8)
 project(libMonomeCpp)
 
 set(CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
-include(SetTargetOptions)
 
 find_package (monome)
 if (NOT MONOME_FOUND)
