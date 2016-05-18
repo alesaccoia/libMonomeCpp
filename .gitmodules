@@ -1,0 +1,3 @@
+[submodule "thirdparty/TPCircularBuffer"]
+	path = thirdparty/TPCircularBuffer
+	url = git@github.com:michaeltyson/TPCircularBuffer.git
